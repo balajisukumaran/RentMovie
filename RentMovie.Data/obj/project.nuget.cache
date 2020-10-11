@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l6sLZamOvYBPVZ9XDqSr/dHug5PDx7S1i8GQipGJe0ecmPxQ1+KTgwLNY4FIUA5yYw4GM/fxG6fKjug3dEKNDA==",
+  "success": true,
+  "projectFilePath": "D:\\WorkSpace\\GitHub\\RentMovie\\RentMovie\\RentMovie.Data\\RentMovie.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Balaji Sukumaran\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Balaji Sukumaran\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
